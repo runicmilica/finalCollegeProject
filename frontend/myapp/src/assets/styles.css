@@ -1,0 +1,52 @@
+.absencesCount {
+    margin: 1rem;
+    font-size: large;
+}
+
+.card {
+    background-color: #e3f2fd;
+    color: #0a3d70;
+}
+
+.table th {
+    color: #0a3d70
+}
+
+.table td {
+    color: #0a3d70
+}
+
+.status {
+    background-color: #bbdefb; /* Slightly darker blue on hover */
+    color: #0d47a1;
+    border-color: #0a3d70;
+    max-width: 70%;
+    margin-right: 0.25rem;
+}
+
+.status:hover {
+    color: #bbdefb; /* Light blue dropdown items */
+    background-color:  #748cad;
+}
+
+.nogTitle {
+    font-size: large;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.none {
+    font-style: italic;
+}
+
+.addpd {
+    color: #bbdefb; /* Light blue dropdown items */
+    border-color: #0a3d70;
+    background-color: #6482AD;
+    max-width: 200px;
+    margin: 1rem 1rem;
+}
+.addpd:hover {
+    background-color: #bbdefb; /* Slightly darker blue on hover */
+    color: #0d47a1;
+}
